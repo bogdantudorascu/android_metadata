@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.uni.photoristic.MainActivity">
+    <item
+        android:id="@+id/map_gallery"
+        android:orderInCategory="100"
+        android:title="Map"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/simple_gallery"
+        android:orderInCategory="100"
+        android:title="Gallery"
+        app:showAsAction="never" />
+</menu>
